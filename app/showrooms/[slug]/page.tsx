@@ -1,5 +1,5 @@
 import { notFound } from "next/navigation";
-import { Box, Container, Heading, SimpleGrid, Stack, Text } from "@chakra-ui/react";
+import { Box, Container, Heading, SimpleGrid, Stack, Text,Flex } from "@chakra-ui/react";
 import { getShowroomBySlug } from "@/data/showrooms";
 import SectionHeading from "@/components/ui/SectionHeading";
 
